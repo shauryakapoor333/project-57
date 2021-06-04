@@ -1,0 +1,18 @@
+body
+{
+  text-align:center;
+  background-image:#F4FF81 
+  background-repeat: no-repeat;
+ 
+}
+img
+{
+  border-radius:80px;
+  border-style: solid;
+  padding: 5px;
+ 
+}
+#wl
+{
+  text-color:yellowgreen;
+}
